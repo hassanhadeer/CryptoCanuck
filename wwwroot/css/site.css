@@ -1,0 +1,591 @@
+﻿
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgb(230, 230, 230); 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background:linear-gradient(to left, #fff, #8e9eab); 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #8e8f96; 
+}
+
+#logo {
+  width: 50px;
+
+}
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+  /* dropDown section*/
+  .dropDown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropDown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 160px;
+    border-radius: 10px;
+    box-shadow: 1px 8px 16px 1px #a0b3ecf6;
+    z-index: 1;
+  }
+  
+  .dropDown-content a {
+    padding: 8px 10px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropDown-content a:hover {
+    background-color: hsl(220, 28%, 72%);
+  }
+  
+  .dropDown:hover .dropDown-content {
+    display: block;
+  }
+  
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+/* main section*/
+.mainContainer{
+  width: 100%;
+  height: 100vh;
+  overflow-y: scroll;
+  background-image: linear-gradient(to right,rgba(192, 188, 188, 0.7), #f1f3f5),  
+  url('../assets/historyPhotos/BitcoinImage.jpg');
+  position: relative;
+  background-size: cover;
+}
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .mainContainer::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .mainContainer {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  }
+
+/* about */
+.ptest {
+  margin: 50px;
+  padding: 50px;
+  text-align:left;
+}
+
+  /* History */
+.historyContainer {
+  width: 100%;
+  height: 100vh;
+  padding:50px;
+  } 
+
+#bigletter {
+  color: red;
+  font-size:80px;
+  float:left;
+  padding-right: 8px;
+  line-height: 0.7;
+  } 
+
+  #historySection1 {
+    height: 300px;
+  }
+
+  #youtubevideo{
+    display: inline;
+    width: 55%;
+  }
+
+  #historySection1 >p {
+    text-align: justify;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    float: left;
+    width: 40%;
+    font-weight: 600;
+  }
+
+/* Youtube iframe container*/
+.iframe-container {
+  position: relative;
+  width: 43%;
+  padding-top: 25px; 
+  height: 280px;
+  margin-left: 10px;
+  align-content:center;
+  float: left;
+  border:3px soild #0366d6;
+  }
+
+.iframe-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  }
+
+.historyDetails >div {
+    float:left;
+  }
+
+  #historySection2 {
+    height:300px;  
+  }
+
+  #historySection2 >p {
+    text-align: justify;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    float: left;
+    font-weight: 600;
+  }
+
+  #historySection3 {
+    height:360px; 
+  }
+
+  .historyChart {
+    float: left;
+    height:360px;
+    width:70%;
+    margin-left: 15%;
+  }
+
+  #historySection4 {
+    height:300px;  
+  }
+
+  .historyText >div {
+    float:left;
+    font-weight: 600;
+    text-align: justify;
+    padding-top: 20px;
+  }
+
+  .historyText >p {
+    width: 50%;
+    text-align: left;
+    float: left;
+    padding-top: 20px;
+    padding-left: 10px;
+    font-weight: 600;
+    text-align: justify;
+  }
+
+  .historyImg {
+    width: 43%;
+    height: 300px;
+    float: left;
+    padding-top: 25px;
+    padding-left: 7%;
+    align-content: center;
+  }
+
+  #historySection5 {
+    height:300px;
+  }
+
+  .historyChartB {
+    float: left;
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 15%;
+  }
+
+  #historySection6 {
+    height: 300px;
+    float:left;
+    margin-top: 50px;
+  }
+
+  .historySec >h1 {
+    font-size: 2.0em;
+    font-weight: 600;
+  }
+
+  .historySec >p {
+    float: left;
+    font-weight: 600;
+    padding-bottom: 50px;
+    text-align: justify;
+  }
+
+/* learn */
+.learnContainer {
+  width: calc(100%-70px);
+  padding:0 35px;
+  display:block;
+  }
+
+  .learnSection {
+    width: calc(100%-50px);
+    padding: 25px;
+    float: left; 
+  }
+
+  .learnSubject {
+    width: 100%;
+  }
+
+  .hardwareImgDiv {
+    width: 100%;
+    float: left;
+  }
+
+
+  .hardwareImage {
+    width: 20%;
+    margin-left:10%;
+    margin-top: 20px;
+    margin-bottom:20px;
+  }
+
+  .hardwareWallets {
+    width: 100%;
+    text-align: center;
+  }
+    .hardwareWalletsDiv {
+      width: 20%;
+      text-align: center;
+      display:inline-block;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+.checked {
+    color: orange;
+}
+  
+
+      .learnImage {
+        width: 75px;
+        height: 75px;
+      }
+
+  .paperImgDiv {
+    width:100%;
+    float: left;
+  }
+
+    .paperImage {
+      width: 20%;
+      margin-left:10%;
+      margin-top: 20px;
+      margin-bottom:20px; 
+    }
+
+  .desktopWalletImagesDiv {
+    width: 100%;
+    text-align: center;
+  }
+
+    .desktopWalletImages{
+      width: 20%;
+      display:inline-block;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+  .mobileWalletImagesDiv {
+    width: 100%;
+    text-align: center;
+  }
+
+    .mobileWalletImages{
+      width: 20%;
+      text-align: center;
+      display:inline-block;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+/* Links */
+.linksContainer {
+  width: 80%;
+  margin-left: 10%;
+  float: left;
+}
+
+  .linksSection {
+    width: 100%;
+    float: left;
+    padding: 25px;
+    margin-top: 30px;
+  }
+
+    table {
+      width:100%;
+    }
+
+    th, td {
+      padding: 15px;
+      text-align: left;
+    }
+
+    .linksTable tr:nth-child(even) {
+      background:none;
+    }
+
+    .linksTable tr:nth-child(odd) {
+     background: #fff;
+    }
+
+    .linksTable th {
+      background: #000;
+      color: white;
+    }
+
+    .youtubeContainer {
+      width:70%;
+      text-align: center;
+      padding-top: 15 px;
+      margin-left: 15%;
+      margin-bottom: 25px;
+    }
+
+    /* css done by shilpa up to line 450 */
+    #linkSection6 {
+      height: 300px;
+    }
+    #youtubevideo{
+      display: inline;
+      width: 55%;
+    }
+    
+    #linkSection6 >p {
+      text-align: justify;
+      padding-bottom: 10px;
+      padding-left: 10px;
+      float: left;
+      width: 40%;
+    }
+        
+  /* Youtube iframe container*/
+  .iframe-container {
+    position: relative;
+    width: 43%;
+    padding-top: 25px; 
+    height: 280px;
+    margin-left: 10px;
+    align-content:center;
+    float: left;
+    border:3px soild #0366d6;
+    }
+  
+    .iframe-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    }
+
+/*Bio page*/
+.bioContainer {
+  width: calc(100%-20px);
+  height: 100vh;
+  float: left;
+  padding:10px;
+  margin: 0 25%;
+}
+
+  .bioTeamDiv {
+    width: 100%;
+    border-radius: 20px;
+    background-size: cover;
+    background:linear-gradient(to left, #fff, #8e9eab);
+  }
+
+    .bioImageDiv {
+      width:100px;
+      height: 120px;
+      margin:5px;
+      float: left;
+      display: block;
+    }
+
+    .bioImage {
+      width: 100%;
+      border-radius: 50px;
+    }
+
+    .bioDescription {
+      width: calc(80%-10px);
+      margin:5px;
+      font-size:0.9em;
+    }
+      .bioDescription > p {
+        font-weight: 400;
+      }
+
+/* contact page*/
+.contactDiv {
+  width: calc(100%-20px);
+  text-align: center;
+  padding:10px;
+}
+
+  .contactMap {
+    width: 100%;
+    text-align: center;
+  }
+
+    #map{
+      width: 50%;
+      height: 25vh;
+      border: #fff;
+      border: 3px;
+      border-radius: 25px;
+    }
+
+  .contactForm {
+    padding: 30px;
+    text-align: center;
+    display: block;
+  }
+
+  .contactStyle {
+    width: 50%;
+    margin-top: 5px;
+    border-radius: 3px;
+    border-style: solid;
+    cursor: pointer;
+  }
+
+  .contactStyle:hover {
+    background:linear-gradient(to left, #fff, #8e9eab);
+  }
+
+  .textContactStyle {
+    width: 50%;
+    height: 20vh;
+    margin-top: 5px;
+    border-radius: 5px;
+    border-style: solid;
+  }
+
+  .textContactStyle:hover {
+    background: linear-gradient(to left, #fff, #8e9eab);
+  }
+
+/*footer section*/
+.footer {
+  width: 100%;
+  position:absolute;
+  bottom: 0;
+  white-space: nowrap;
+  line-height: 200px;
+}
+
+  .footerContainer {
+    width: 100%;
+    text-align: left;
+  }
+
+  .footerDiv {
+    width: 5%;
+    height: 150px;
+    float: left;
+    text-align: left;
+    margin-left: 5%;
+    font-weight: 400;
+    font-size: 0.7em;
+  }
+
+  .footerSocialBox{
+    widows: 10%;
+    height: 150px;
+  }
+
+  .socialIcon {
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+
+  .copyDiv {
+    font-size: 0.6em;
+  }
+
+  /*privacyPolicy*/
+  .privacyPolicyDiv {
+    width: 80%;
+    padding: 25px;
+    height: 700px;
+    margin-left: 10%;
+  }

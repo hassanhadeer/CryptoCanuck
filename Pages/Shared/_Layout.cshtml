@@ -1,0 +1,155 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CryptoCanuck</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/graph.css" />
+    <link rel="stylesheet" href="~/css/calc.css"/>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a href="/Index" title="logo">
+                    <img id="logo" src="assets/images/logo.png" title="Logo" alt="Logo">
+                </a>
+                <a class="navbar-brand" asp-area="" asp-page="/Index">CryptoCanuck</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/About">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropDown">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/History">History</a>
+                                <div class="dropDown-content">
+                                    <a href="/History#historySection1" title="section1">You tube video</a>
+                                    <a href="/History#historySection2"title="section2">Bitcoin 2009-2014</a>
+                                    <a href="/History#historySection3"title="section3">Chart 2009-2014
+                                    </a>
+                                    <a href="/History#historySection4"title="section4">Bitcoin 2015-2019</a>
+                                    <a href="/History#historySection5"title="section5">Chart 2015-2020</a>
+                                    <a href="/History#historySection6"title="section6">Bitcoin in 2020</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropDown">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Learn">Learn</a>
+                                <div class="dropDown-content">
+                                    <a href="/Learn#learnSection1" title="Introduction">Introduction</a>
+                                    <a href="/Learn#learnSection2" title="start with Bitcoin">Start with Bitcoin</a>
+                                    <a href="/Learn#learnSection3" title="Trezor wallet">Trezor wallet</a>
+                                    <a href="/Learn#learnSection4" title="Use the wallet">Wallet using</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropDown">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Links">Links</a>
+                                <div class="dropDown-content">
+                                    <a href="/Links#linksSection1" title="Exchange websites">Exchange websites</a>
+                                    <a href="/Links#linksSection2" title="Wallets">Wallets</a>
+                                    <a href="/Links#linksSection3" title="ATMs in Canada">ATMs </a>
+                                    <a  href="/Links#linksSection4" title="Pools">Pools </a>
+                                    <a  href="/Links#linksSection5" title="Tutorials">Tutorials </a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Bio">Bio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Contact">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="mainContainer">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+<footer class="border-top">
+    <div class="footerContainer">
+        <div class="footerDiv">
+            <a class="footer-link text-dark" asp-area="" asp-page="/Index">Home</a>
+        </div>
+        <div class="footerDiv">
+            <a class="footer-link text-dark" asp-area="" asp-page="/About">About</a><br>
+            <a class="footer-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+            <a class="footer-link text-dark" asp-area="" asp-page="/Subscription">Newsletter</a>
+        </div>
+        <div class="footerDiv">
+            <a class="footer-link text-dark" asp-area="" asp-page="/History">History</a><br>
+            <a class="footer-link text-dark" href="/History#historySection1" title="video">video</a><br>
+            <a class="footer-link text-dark" href="/History#historySection2" title="2009-2014">From2009</a><br>
+            <a class="footer-link text-dark" href="/History#historySection4" title="2015-2019">From2015</a><br>
+            <a class="footer-link text-dark" href="/History#historySection6" title="2020">2020</a><br>
+        </div>
+        <div class="footerDiv">
+            <a class="footer-link text-dark" asp-area="" asp-page="/Learn">Learn</a><br>
+            <a class="footer-link text-dark" href="/Learn#learnSection1" title="Introduction">Intro</a><br>
+            <a class="footer-link text-dark" href="/Learn#learnSection2" title="start with Bitcoin">Start</a><br>
+            <a class="footer-link text-dark" href="/Learn#learnSection3" title="Trezor wallet">Trezor</a><br>
+            <a class="footer-link text-dark" href="/Learn#learnSection4" title="Use the wallet">Wallet using</a><br>
+        </div>
+        <div class="footerDiv">
+            <a class="footer-link text-dark" asp-area="" asp-page="/Links">Links</a><br>
+            <a class="footer-link text-dark" href="/Links#linksSection1" title="Exchange websites">Exchange</a><br>
+            <a class="footer-link text-dark" href="/Links#linksSection2" title="Wallets">Wallets</a><br>
+            <a class="footer-link text-dark" href="/Links#linksSection3" title="ATMs in Canada">ATMs</a><br>
+            <a class="footer-link text-dark" href="/Links#linksSection4" title="Pools">Pools </a><br>
+            <a class="footer-link text-dark" href="/Links#linksSection5" title="Tutorials">Tutorials </a><br>
+        </div>
+        <div class="footerDiv">
+            <a class="footer-link text-dark" asp-area="" asp-page="/Bio">Bio</a>
+        </div>
+        <div class="footerDiv">
+            <a class="footer-link text-dark" asp-area="" asp-page="/JoinUs">Join</a><br>
+
+            <a href="https://www.facebook.com/" target="_blank">
+                <img class="socialIcon" src="assets/images/facebook.png" alt="facebook"><br>
+            </a>
+            <a href="https://www.linkedin.com/" target="_blank">
+                <img class="socialIcon" src="assets/images/linkedin.png" alt="linkedin"><br>
+            </a>
+            <a href="https://www.instagram.com/" target="_blank">
+                <img class="socialIcon" src="assets/images/instagram.png" alt="instagram"><br>
+            </a>
+        </div>
+        <div class="footerDiv">
+            <a class="footer-link text-dark" asp-area="" asp-page="/Contact">Contact</a>
+            
+        </div>
+        <div class="copyDiv">
+           <br><br><br><br><br><br><br><br><br><br> &copy; 2021 CyrptoCanuck
+        </div>
+    </div>
+</footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/code/highstock.js"></script>
+    <script src="~/js/code/modules/data.js"></script>
+    <script src="~/js/code/modules/exporting.js"></script>
+    <script src="~/js/graph.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

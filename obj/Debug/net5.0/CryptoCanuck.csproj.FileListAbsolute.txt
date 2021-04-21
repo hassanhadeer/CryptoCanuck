@@ -1,0 +1,606 @@
+<<<<<<< HEAD
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\appsettings.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.exe
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.deps.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.dev.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.Manifest.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.xml
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\scopedcss\bundle\CryptoCanuck.styles.css
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.input.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.output.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorCoreGenerate.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Bio.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\JoinUs.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Learn.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Links.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.genruntimeconfig.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day3\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CopyComplete
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\appsettings.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.exe
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.deps.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.dev.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.Manifest.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.xml
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\scopedcss\bundle\CryptoCanuck.styles.css
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.input.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.output.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorCoreGenerate.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Bio.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\JoinUs.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Learn.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Links.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.genruntimeconfig.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CyrptoCanuck\day4\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CopyComplete
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\appsettings.json
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.exe
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.deps.json
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.json
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.dev.json
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.dll
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.dll
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.Manifest.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.xml
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\scopedcss\bundle\CryptoCanuck.styles.css
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.input.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.output.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorCoreGenerate.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Bio.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\JoinUs.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Learn.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Links.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cs
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.dll
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.genruntimeconfig.cache
+C:\Users\rozef\Downloads\CryptoCanuck (1)\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CopyComplete
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\appsettings.json
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.exe
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.deps.json
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.json
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.dev.json
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.dll
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.dll
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.Manifest.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.xml
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\scopedcss\bundle\CryptoCanuck.styles.css
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.input.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.output.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorCoreGenerate.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Bio.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\JoinUs.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Learn.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Links.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cs
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.dll
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.genruntimeconfig.cache
+C:\Users\rozef\OneDrive\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CopyComplete
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\appsettings.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.exe
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.deps.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.dev.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.Manifest.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.xml
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\scopedcss\bundle\CryptoCanuck.styles.css
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.input.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.output.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorCoreGenerate.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Bio.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Learn.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Links.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.genruntimeconfig.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\day7\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CopyComplete
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\appsettings.json
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.exe
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.deps.json
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.json
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.dev.json
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.dll
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.Manifest.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.xml
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\scopedcss\bundle\CryptoCanuck.styles.css
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.input.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.output.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorCoreGenerate.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Bio.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Learn.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Links.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.genruntimeconfig.cache
+C:\Users\Hassan Abu Hadeer\Desktop\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CopyComplete
+E:\C#\TeamAPI\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+E:\C#\TeamAPI\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TeamAPI\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+E:\C#\TeamAPI\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+E:\C#\TeamAPI\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+E:\C#\TeamAPI\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\TeamAPI\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+E:\C#\TeamAPI\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\appsettings.Development.json
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\appsettings.json
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.exe
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.deps.json
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.json
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.dev.json
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.dll
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\ref\CryptoCanuck.dll
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.pdb
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.dll
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.pdb
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.Manifest.cache
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.xml
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\scopedcss\bundle\CryptoCanuck.styles.css
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.input.cache
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.output.cache
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorCoreGenerate.cache
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Bio.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\CoinGraph.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Learn.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Links.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cache
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cs
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.Views.pdb
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CopyComplete
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.dll
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\ref\CryptoCanuck.dll
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.pdb
+E:\C#\TeamAPI\CryptoCanuck\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.genruntimeconfig.cache
+=======
+>>>>>>> 6e726337e2187ecd6259cd62d9c0c1fc67f46413
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\appsettings.json
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.exe
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.deps.json
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.json
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.dev.json
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.Manifest.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.xml
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\scopedcss\bundle\CryptoCanuck.styles.css
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.input.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.TagHelpers.output.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorCoreGenerate.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Bio.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\CoinGraph.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Learn.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Links.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.csproj.CopyComplete
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\CryptoCanuck.genruntimeconfig.cache
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Web.config
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\MailKit.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\MimeKit.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Admin.cshtml.g.cs
+C:\Users\allie\Documents\GitHub\CryptoCanuck\obj\Debug\net5.0\Razor\Pages\Subscription.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Web.config
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\appsettings.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.exe
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.deps.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.dev.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.Views.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\MailKit.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.Manifest.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.xml
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\scopedcss\bundle\CryptoCanuck.styles.css
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.TagHelpers.input.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.TagHelpers.output.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.RazorCoreGenerate.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Admin.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Bio.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\CoinGraph.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Learn.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Links.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Subscription.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.csproj.CopyComplete
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.genruntimeconfig.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Web.config
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\appsettings.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.exe
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.deps.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.runtimeconfig.dev.json
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.Views.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\MailKit.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.csprojAssemblyReference.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.AssemblyInfoInputs.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.AssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.RazorAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.Manifest.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\staticwebassets\CryptoCanuck.StaticWebAssets.xml
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\scopedcss\bundle\CryptoCanuck.styles.css
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.TagHelpers.input.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.TagHelpers.output.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.RazorCoreGenerate.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Admin.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Bio.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\CoinGraph.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\History.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Learn.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Links.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\Subscription.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.RazorTargetAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.Views.pdb
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.csproj.CopyComplete
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\ref\CryptoCanuck.dll
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.pdb
+C:\Users\Hassan Abu Hadeer\OneDrive - triOS College\WinMobileDev\file\CryptoCanuck\final copy\CryptoCanuck-master\CryptoCanuck-master\obj\Debug\net5.0\CryptoCanuck.genruntimeconfig.cache
